@@ -1,5 +1,5 @@
 let totalTime = 30 * 1000;
-const timerElement = document.getElementById("timer");
+const timerElement = document.getElementById("secsTimer");
 const animateElement = document.getElementById("animate");
 const startButton = document.getElementById("startButton");
 

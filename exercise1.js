@@ -1,5 +1,5 @@
 let totalTime = 60 * 60;
-const timerElement = document.getElementById("timer");
+const timerElement = document.getElementById("oneHourTimer");
 const messageElement = document.getElementById("message");
 
 function updateTimer() {
